@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    background: linear-gradient(236.85deg, #041832 2%, #3468A7 98%);
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.container{
+    background-color: azure;
+    border-radius: 15px;
+    margin: 36px 50px;
+    padding-bottom: 1px;
+    box-shadow: 6px 6px 6px #0E1D2F;
+}
+
+main{
+    background: linear-gradient(230.65deg, #499CFE 27.49%, #9CC8FC 83.19%);
+    box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.42);
+    border-radius: 20px; 
+    height: 628px;
+    margin :50px;
+    
+    
+    
+   
+}
+
+header{
+    display: flex;
+    padding-top: 50px;
+    margin-left: 50px;
+    
+}
+
+img{
+    border-radius: 50%;
+    max-height: 150px;
+}
+
+.info{
+    margin-left: 30px;
+}
+
+
+
+.projects { 
+      padding-top: 50px;
+    
+}
+
+h2{
+    font-size: 52px;
+    text-align: center;
+    margin: 0px;
+    font-weight: 700;
+}
+
+ul{
+    text-align: center;
+    font-size: 32px;
+    padding: 0px;
+    padding-top: 10px;
+    
+}
+
+li{
+    margin: 30px;
+}
+
+p{
+    font-weight: 400;
+}
+
+a{
+    color: rgb(0, 51, 109);
+    text-decoration: none;
+}
+
+.github-logo {
+    width: 40px;
+    position: absolute;
+    top: 60px;
+    right: 80px;
+    border-radius: 0px;
+  }
