@@ -19,10 +19,6 @@ main{
     border-radius: 20px; 
     height: auto;
     margin :50px;
-    
-    
-    
-   
 }
 
 header{
@@ -61,7 +57,7 @@ ul{
     padding: 0px;
     padding-top: 10px;
     padding-bottom: 30px;
-
+    
 }
 
 li{
@@ -80,7 +76,7 @@ a{
 .github-logo {
     width: 40px;
     position: absolute;
-    top: 60px;
+    top: 50px;
     right: 80px;
     border-radius: 0px;
   }
@@ -91,7 +87,6 @@ a{
     }
 
 }
-
 @media (max-width: 750px){
     img{
         max-height: 100px;
@@ -134,7 +129,7 @@ a{
     .github-logo {
         width: 30px;
         position: absolute;
-        top: 30px;
+        top: 15px;
         right: 40px;
         border-radius: 0px;
     }
